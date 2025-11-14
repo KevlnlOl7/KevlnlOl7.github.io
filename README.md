@@ -13,8 +13,7 @@
 | 進階特色     | - localStorage 記憶( 最近搜尋、收藏城市 )<br>- 自訂主題色動態切換<br>- 支援深色模式<br>- 多模組 CSS 管理<br>- 可擴充性高            |
 | 檔案結構     | 以等寬程式區塊標示於下方                                                                      |
 | 展示截圖     | ![](screenshots/Desktop_01.png)                           |
-| GitHub Pages | https://你的GitHub用戶名.github.io/專案名                                                    |
-                                   |
+| GitHub Pages | https://kevlnlol7.github.io/        |          |
 
 
 ## 檔案結構
@@ -36,4 +35,5 @@
 │    └─ rwd.css                         # 響應式設計，我連三星 Galaxy Fold 5 也有考慮到，也有考慮到切成橫置的情境。
 ├── README.md                           # 專案說明文件
 └── screenshots/                        # 截圖資料夾
+
 
